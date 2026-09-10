@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.env
+backend_run.log
+llm_pipeline_run*.log
+
+# The full raw Kaggle mirror (~500MB) is not committed — scripts/00 fetches it.
+# Everything else below (processed threads, trained model, predictions, eval
+# results) IS committed on purpose: these are real, already-computed results
+# from an actual run on real @AppleSupport data, small enough to check in
+# (a few MB total), and having them present means a reviewer can read the
+# evidence directly without spending 15 minutes re-running the pipeline first.
+data/raw/*.csv
+
+.DS_Store

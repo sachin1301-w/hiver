@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Support Triage Console</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-inner">
+    <h1>Support Triage Console</h1>
+    <p class="tagline">Classify, draft, and route customer messages — with the reasoning shown, not hidden.</p>
+  </div>
+  <div id="status-pill" class="status-pill status-pill--unknown">checking backend…</div>
+</header>
+
+<main class="layout">
+
+  <section class="composer" aria-label="Message composer">
+    <label for="message-input">Customer message</label>
+    <textarea id="message-input" rows="5" placeholder="e.g. my battery has been dying so fast since the iOS 11 update, is there a fix coming?"></textarea>
+
+    <div class="composer-row">
+      <div class="system-select" role="radiogroup" aria-label="Which system to run">
+        <button type="button" class="system-option" data-system="trivial">Trivial</button>
+        <button type="button" class="system-option" data-system="simple">Simple</button>
+        <button type="button" class="system-option is-active" data-system="llm">Advanced (LLM)</button>
+      </div>
+      <button id="submit-btn" class="submit-btn">Run agent →</button>
+    </div>
+    <p class="system-hint" id="system-hint">Few-shot LLM classification + retrieval-grounded reply + LLM-reasoned escalation.</p>
+  </section>
+
+  <section class="result" id="result-section" aria-live="polite">
+    <div class="result-empty" id="result-empty">
+      <p>Run a message through the agent to see its classification, drafted reply, and escalation decision here.</p>
+    </div>
+
+    <div class="result-body" id="result-body" hidden>
+
+      <div class="verdict" id="verdict">
+        <div class="verdict-badge" id="verdict-badge">—</div>
+        <p class="verdict-reason" id="verdict-reason"></p>
+      </div>
+
+      <div class="result-grid">
+        <div class="result-block">
+          <h3>Intent</h3>
+          <p class="intent-tag" id="intent-tag">—</p>
+          <div class="confidence-track"><div class="confidence-fill" id="confidence-fill"></div></div>
+          <p class="confidence-label" id="confidence-label"></p>
+        </div>
+
+        <div class="result-block">
+          <h3>Drafted reply</h3>
+          <p class="reply-text" id="reply-text">—</p>
+        </div>
+      </div>
+
+      <div class="grounding" id="grounding-block">
+        <h3>Grounded in these historical resolutions</h3>
+        <ul class="grounding-list" id="grounding-list"></ul>
+      </div>
+    </div>
+
+    <div class="result-error" id="result-error" hidden></div>
+  </section>
+
+  <section class="metrics" id="metrics-section">
+    <h2>Eval results</h2>
+    <p class="metrics-hint" id="metrics-hint">Run <code>scripts/run_all.sh</code> to generate these, then refresh.</p>
+    <div id="metrics-table-wrap"></div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <p>API key is read server-side from <code>.env</code> — never sent to or stored in this page.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

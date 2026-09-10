@@ -1,0 +1,601 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1,cust58,True,Wed Feb 22 19:51:22 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",2,
+2,GadgetCoSupport,False,Tue Feb 14 21:29:57 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,1
+3,cust130,True,Sun Oct 15 07:14:22 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #198246",4,
+4,GadgetCoSupport,False,Sat Oct 07 15:16:27 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,3
+5,cust179,True,Sat Jun 24 10:07:01 +0000 2023,"package for order #948749 arrived completely smashed, box was crushed",6,
+6,GadgetCoSupport,False,Tue Mar 21 07:50:21 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,5
+7,cust25,True,Mon Jun 26 21:58:51 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",8,
+8,GadgetCoSupport,False,Tue May 16 01:34:55 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,7
+9,cust76,True,Mon Oct 23 07:00:03 +0000 2023,"@GadgetCoSupport I was charged twice for order #496922, please fix this",10,
+10,GadgetCoSupport,False,Sun Feb 05 01:40:06 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,9
+11,cust98,True,Mon Aug 21 23:08:40 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",12,
+12,GadgetCoSupport,False,Thu Jul 06 05:55:19 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,11
+13,cust156,True,Sun Oct 01 08:54:47 +0000 2023,"still waiting on my refund for order #802729, it's been 10 days",14,
+14,GadgetCoSupport,False,Sat Mar 25 16:49:49 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,13
+15,cust59,True,Sun Jun 11 14:36:21 +0000 2023,"still waiting on my refund for order #817870, it's been 12 days",16,
+16,GadgetCoSupport,False,Thu May 18 02:24:35 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,15
+17,cust165,True,Wed Mar 15 09:38:38 +0000 2023,"package for order #322955 arrived completely smashed, box was crushed",18,
+18,GadgetCoSupport,False,Mon Mar 13 08:58:45 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,17
+19,cust150,True,Wed Jul 05 07:59:06 +0000 2023,@GadgetCoSupport billed me for something I never ordered,20,
+20,GadgetCoSupport,False,Sun Mar 12 18:33:04 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,19
+21,cust175,True,Thu Feb 02 14:00:32 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #214975",22,
+22,GadgetCoSupport,False,Sat Jul 15 21:41:44 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,21
+23,cust175,True,Sat Jun 24 04:03:41 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",24,
+24,GadgetCoSupport,False,Wed May 31 15:49:45 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,23
+25,cust196,True,Sun Sep 17 03:52:27 +0000 2023,"Hey @GadgetCoSupport my order #857168 still hasn't arrived, it's been 10 days now",26,
+26,GadgetCoSupport,False,Fri Jun 02 23:15:48 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,25
+27,cust139,True,Thu Jun 15 17:47:22 +0000 2023,"got the wrong item entirely, ordered X got Y. order #260263",28,
+28,GadgetCoSupport,False,Tue Jan 10 04:04:22 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,27
+29,cust146,True,Mon Feb 13 17:41:39 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",30,
+30,GadgetCoSupport,False,Sun Feb 05 19:23:42 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,29
+31,cust43,True,Thu Sep 28 22:05:07 +0000 2023,what are your store hours on weekends @GadgetCoSupport,32,
+32,GadgetCoSupport,False,Sat Aug 05 07:42:40 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,31
+33,cust172,True,Sun Aug 13 18:50:39 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",34,
+34,GadgetCoSupport,False,Sun Aug 20 04:24:20 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,33
+35,cust142,True,Sun Apr 23 00:15:42 +0000 2023,"Hey @GadgetCoSupport my order #454508 still hasn't arrived, it's been 2 days now",36,
+36,GadgetCoSupport,False,Mon Feb 06 22:58:39 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,35
+37,cust132,True,Tue May 23 17:40:24 +0000 2023,"Hey @GadgetCoSupport my order #132938 still hasn't arrived, it's been 12 days now",38,
+38,GadgetCoSupport,False,Thu Apr 20 19:37:58 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,37
+39,cust49,True,Sun Feb 19 23:59:34 +0000 2023,"@GadgetCoSupport where is my order?? placed it 17 days ago, nothing",40,
+40,GadgetCoSupport,False,Wed Aug 09 12:53:58 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,39
+41,cust16,True,Fri Jun 23 03:58:42 +0000 2023,"screen is cracked and I haven't even dropped it, order #864491",42,
+42,GadgetCoSupport,False,Mon May 08 06:58:32 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,41
+43,cust72,True,Mon May 08 02:44:40 +0000 2023,"@GadgetCoSupport where is my order?? placed it 15 days ago, nothing",44,
+44,GadgetCoSupport,False,Tue Aug 15 20:02:12 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,43
+45,cust105,True,Mon Sep 04 07:46:56 +0000 2023,"Hey @GadgetCoSupport my order #197793 still hasn't arrived, it's been 9 days now",46,
+46,GadgetCoSupport,False,Tue Jul 25 02:08:05 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,45
+47,cust74,True,Thu Oct 12 17:43:08 +0000 2023,"Hey @GadgetCoSupport my order #509386 still hasn't arrived, it's been 10 days now",48,
+48,GadgetCoSupport,False,Tue Mar 21 06:54:50 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,47
+49,cust192,True,Mon Jan 30 01:49:32 +0000 2023,"@GadgetCoSupport I want to return order #707314, how do I start that",50,
+50,GadgetCoSupport,False,Fri Oct 27 17:21:33 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,49
+51,cust48,True,Sat Feb 04 08:33:48 +0000 2023,"got the wrong item entirely, ordered X got Y. order #159642",52,
+52,GadgetCoSupport,False,Wed Jul 26 04:21:53 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,51
+53,cust159,True,Thu Aug 03 23:56:03 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",54,
+54,GadgetCoSupport,False,Thu Oct 26 20:34:45 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,53
+55,cust68,True,Thu Mar 09 23:30:07 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #314181",56,
+56,GadgetCoSupport,False,Sat Jun 03 16:38:49 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,55
+57,cust26,True,Tue Oct 03 07:45:38 +0000 2023,"@GadgetCoSupport I want to return order #109767, how do I start that",58,
+58,GadgetCoSupport,False,Sun Sep 17 09:39:20 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,57
+59,cust73,True,Sun Aug 13 19:46:40 +0000 2023,"package for order #172132 arrived completely smashed, box was crushed",60,
+60,GadgetCoSupport,False,Sun Jun 04 22:16:13 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,59
+61,cust170,True,Fri Mar 10 09:37:44 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",62,
+62,GadgetCoSupport,False,Wed Mar 01 03:53:49 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,61
+63,cust184,True,Sat Apr 15 23:05:30 +0000 2023,there's a charge on my card I don't recognize from you guys,64,
+64,GadgetCoSupport,False,Tue May 16 18:24:04 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,63
+65,cust12,True,Tue Jun 20 04:45:46 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #196781",66,
+66,GadgetCoSupport,False,Mon May 15 05:52:58 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,65
+67,cust20,True,Sat Oct 07 01:18:42 +0000 2023,why was I charged $19 more than the listed price on #688153,68,
+68,GadgetCoSupport,False,Sun Jul 09 21:12:30 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,67
+69,cust94,True,Mon Jul 03 07:38:55 +0000 2023,"screen is cracked and I haven't even dropped it, order #233636",70,
+70,GadgetCoSupport,False,Mon May 08 03:44:33 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,69
+71,cust42,True,Mon Jul 31 00:54:08 +0000 2023,requested a refund last week for #750810 and heard nothing back,72,
+72,GadgetCoSupport,False,Sun Apr 02 12:05:40 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,71
+73,cust41,True,Sat Jul 15 01:24:35 +0000 2023,is there a student discount available,74,
+74,GadgetCoSupport,False,Tue Aug 29 08:05:54 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,73
+75,cust58,True,Sun Apr 09 14:30:27 +0000 2023,"@GadgetCoSupport where is my order?? placed it 11 days ago, nothing",76,
+76,GadgetCoSupport,False,Sun Jun 18 10:08:37 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,75
+77,cust174,True,Sun Jan 15 04:11:58 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,78,
+78,GadgetCoSupport,False,Sun May 14 06:30:05 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,77
+79,cust89,True,Sat Aug 12 22:04:17 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #140115",80,
+80,GadgetCoSupport,False,Tue Sep 19 04:12:37 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,79
+81,cust1,True,Thu Jul 06 15:42:11 +0000 2023,"still waiting on my refund for order #367095, it's been 3 days",82,
+82,GadgetCoSupport,False,Sun Feb 05 12:01:19 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,81
+83,cust80,True,Sat Jun 17 14:39:03 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",84,
+84,GadgetCoSupport,False,Thu Jun 01 20:11:07 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,83
+85,cust158,True,Thu Jul 27 19:56:59 +0000 2023,"@GadgetCoSupport where is my order?? placed it 14 days ago, nothing",86,
+86,GadgetCoSupport,False,Sun Jan 01 11:03:49 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,85
+87,cust120,True,Tue Aug 15 07:46:50 +0000 2023,requested a refund last week for #923927 and heard nothing back,88,
+88,GadgetCoSupport,False,Tue Sep 19 17:13:41 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,87
+89,cust132,True,Fri Feb 17 08:33:04 +0000 2023,what are your store hours on weekends @GadgetCoSupport,90,
+90,GadgetCoSupport,False,Thu Jun 08 08:10:44 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,89
+91,cust122,True,Tue Aug 22 15:05:21 +0000 2023,what are your store hours on weekends @GadgetCoSupport,92,
+92,GadgetCoSupport,False,Sun Oct 22 07:04:45 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,91
+93,cust38,True,Fri Feb 24 15:28:44 +0000 2023,why was I charged $36 more than the listed price on #618392,94,
+94,GadgetCoSupport,False,Sun Apr 23 06:24:13 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,93
+95,cust32,True,Fri Mar 10 16:55:01 +0000 2023,is there a student discount available,96,
+96,GadgetCoSupport,False,Fri Sep 29 20:20:59 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,95
+97,cust141,True,Thu Mar 23 17:16:56 +0000 2023,"two factor code never arrives, can't get into my account",98,
+98,GadgetCoSupport,False,Sat Aug 19 09:26:12 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,97
+99,cust161,True,Sun May 21 16:00:54 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,100,
+100,GadgetCoSupport,False,Thu Feb 09 10:24:10 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,99
+101,cust36,True,Sat Apr 29 13:56:45 +0000 2023,"package for order #435239 arrived completely smashed, box was crushed",102,
+102,GadgetCoSupport,False,Mon Mar 20 07:47:23 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,101
+103,cust107,True,Sun Apr 16 15:17:49 +0000 2023,"@GadgetCoSupport where is my order?? placed it 19 days ago, nothing",104,
+104,GadgetCoSupport,False,Wed Jul 19 21:15:56 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,103
+105,cust123,True,Fri Jun 30 10:52:19 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",106,
+106,GadgetCoSupport,False,Wed Jul 19 15:15:21 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,105
+107,cust112,True,Sun Jan 15 14:09:28 +0000 2023,"got the wrong item entirely, ordered X got Y. order #611945",108,
+108,GadgetCoSupport,False,Thu Jun 22 14:43:14 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,107
+109,cust7,True,Mon Oct 16 00:59:12 +0000 2023,why was I charged $73 more than the listed price on #233827,110,
+110,GadgetCoSupport,False,Sun Feb 12 23:24:06 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,109
+111,cust98,True,Wed Apr 19 16:33:18 +0000 2023,"screen is cracked and I haven't even dropped it, order #290556",112,
+112,GadgetCoSupport,False,Sat Jun 17 12:17:16 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,111
+113,cust21,True,Tue Jan 10 19:38:22 +0000 2023,is there a student discount available,114,
+114,GadgetCoSupport,False,Fri Jan 27 12:44:30 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,113
+115,cust64,True,Wed Jan 11 22:37:19 +0000 2023,"Hey @GadgetCoSupport my order #919182 still hasn't arrived, it's been 3 days now",116,
+116,GadgetCoSupport,False,Mon Mar 20 08:41:06 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,115
+117,cust180,True,Sat Jul 08 06:06:32 +0000 2023,"Hey @GadgetCoSupport my order #691364 still hasn't arrived, it's been 8 days now",118,
+118,GadgetCoSupport,False,Tue Feb 28 05:57:45 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,117
+119,cust148,True,Sun Jul 23 07:13:15 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",120,
+120,GadgetCoSupport,False,Wed Feb 08 21:33:27 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,119
+121,cust145,True,Tue Jun 27 19:23:47 +0000 2023,there's a charge on my card I don't recognize from you guys,122,
+122,GadgetCoSupport,False,Tue Aug 08 13:29:31 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,121
+123,cust28,True,Wed Jul 05 23:08:27 +0000 2023,"package for order #113266 arrived completely smashed, box was crushed",124,
+124,GadgetCoSupport,False,Thu Aug 24 05:34:12 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,123
+125,cust120,True,Thu May 18 11:44:05 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #745830",126,
+126,GadgetCoSupport,False,Sat May 06 03:09:19 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,125
+127,cust157,True,Thu Jun 22 01:02:41 +0000 2023,requested a refund last week for #355709 and heard nothing back,128,
+128,GadgetCoSupport,False,Mon Sep 11 11:50:00 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,127
+129,cust72,True,Thu Oct 12 00:22:10 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #472060,130,
+130,GadgetCoSupport,False,Fri Sep 22 06:57:22 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,129
+131,cust177,True,Sat Sep 09 16:19:03 +0000 2023,"@GadgetCoSupport where is my order?? placed it 19 days ago, nothing",132,
+132,GadgetCoSupport,False,Mon Jan 09 03:23:16 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,131
+133,cust170,True,Thu Aug 31 20:09:04 +0000 2023,requested a refund last week for #825391 and heard nothing back,134,
+134,GadgetCoSupport,False,Fri Sep 29 12:30:56 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,133
+135,cust79,True,Sat Apr 29 04:23:34 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #468900",136,
+136,GadgetCoSupport,False,Sun Apr 09 11:29:19 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,135
+137,cust71,True,Tue Feb 21 07:04:03 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #300845,138,
+138,GadgetCoSupport,False,Thu Jun 01 08:16:56 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,137
+139,cust71,True,Sat Jan 28 20:08:49 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #114835,140,
+140,GadgetCoSupport,False,Tue May 30 04:35:51 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,139
+141,cust73,True,Sun Sep 03 16:02:13 +0000 2023,"two factor code never arrives, can't get into my account",142,
+142,GadgetCoSupport,False,Sat Jun 24 06:42:44 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,141
+143,cust103,True,Tue Feb 07 21:00:31 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",144,
+144,GadgetCoSupport,False,Sat Jan 28 05:31:27 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,143
+145,cust143,True,Wed Apr 26 19:01:34 +0000 2023,"package for order #189318 arrived completely smashed, box was crushed",146,
+146,GadgetCoSupport,False,Fri Jul 14 16:24:09 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,145
+147,cust146,True,Mon Feb 20 07:33:55 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,148,
+148,GadgetCoSupport,False,Wed Apr 19 09:38:07 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,147
+149,cust20,True,Mon Jan 02 14:52:25 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",150,
+150,GadgetCoSupport,False,Sat Aug 19 21:37:12 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,149
+151,cust180,True,Mon Feb 06 08:29:55 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #342720",152,
+152,GadgetCoSupport,False,Tue May 16 22:45:27 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,151
+153,cust58,True,Wed May 17 05:10:43 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",154,
+154,GadgetCoSupport,False,Mon Feb 06 02:10:16 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,153
+155,cust113,True,Mon Aug 28 11:04:17 +0000 2023,"package for order #723948 arrived completely smashed, box was crushed",156,
+156,GadgetCoSupport,False,Wed Jul 26 09:54:43 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,155
+157,cust111,True,Tue May 09 00:56:30 +0000 2023,"screen is cracked and I haven't even dropped it, order #559023",158,
+158,GadgetCoSupport,False,Thu Feb 16 08:20:05 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,157
+159,cust11,True,Tue Aug 29 18:53:41 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",160,
+160,GadgetCoSupport,False,Tue Aug 15 10:07:38 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,159
+161,cust121,True,Sat Jul 29 12:08:07 +0000 2023,"@GadgetCoSupport where is my order?? placed it 17 days ago, nothing",162,
+162,GadgetCoSupport,False,Wed Jun 14 03:48:30 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,161
+163,cust170,True,Mon Oct 09 01:20:09 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,164,
+164,GadgetCoSupport,False,Mon Aug 21 03:12:22 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,163
+165,cust1,True,Mon Jul 31 01:58:24 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #221552,166,
+166,GadgetCoSupport,False,Fri Apr 07 18:52:32 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,165
+167,cust53,True,Mon Oct 09 04:46:12 +0000 2023,requested a refund last week for #755788 and heard nothing back,168,
+168,GadgetCoSupport,False,Sun May 28 15:57:04 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,167
+169,cust182,True,Fri Jun 09 20:03:19 +0000 2023,is there a student discount available,170,
+170,GadgetCoSupport,False,Sun Jan 08 20:06:24 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,169
+171,cust31,True,Wed Sep 13 10:37:34 +0000 2023,"still waiting on my refund for order #982277, it's been 5 days",172,
+172,GadgetCoSupport,False,Mon Sep 18 09:57:18 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,171
+173,cust142,True,Sun Jul 16 06:56:23 +0000 2023,requested a refund last week for #595158 and heard nothing back,174,
+174,GadgetCoSupport,False,Mon Sep 18 04:58:12 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,173
+175,cust130,True,Mon Jan 02 10:17:52 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,176,
+176,GadgetCoSupport,False,Fri Jun 02 21:22:11 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,175
+177,cust124,True,Tue Jun 20 20:05:40 +0000 2023,"screen is cracked and I haven't even dropped it, order #255813",178,
+178,GadgetCoSupport,False,Fri Oct 06 13:44:01 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,177
+179,cust99,True,Sun Jul 30 01:35:20 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #297816",180,
+180,GadgetCoSupport,False,Mon Jun 12 17:13:13 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,179
+181,cust10,True,Fri Sep 15 21:29:16 +0000 2023,why was I charged $68 more than the listed price on #504832,182,
+182,GadgetCoSupport,False,Mon Jun 19 03:39:14 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,181
+183,cust4,True,Sat Jul 29 23:50:23 +0000 2023,is there a student discount available,184,
+184,GadgetCoSupport,False,Tue Mar 21 02:43:27 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,183
+185,cust167,True,Sun Jun 18 19:25:42 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #455007",186,
+186,GadgetCoSupport,False,Fri Jul 14 11:31:45 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,185
+187,cust61,True,Thu Apr 27 03:17:26 +0000 2023,"two factor code never arrives, can't get into my account",188,
+188,GadgetCoSupport,False,Fri Aug 11 03:35:03 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,187
+189,cust8,True,Fri Jun 16 02:02:35 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,190,
+190,GadgetCoSupport,False,Wed May 31 13:03:04 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,189
+191,cust145,True,Wed Mar 29 06:22:26 +0000 2023,"still waiting on my refund for order #356059, it's been 18 days",192,
+192,GadgetCoSupport,False,Fri Feb 10 22:11:27 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,191
+193,cust60,True,Thu May 11 16:43:56 +0000 2023,what are your store hours on weekends @GadgetCoSupport,194,
+194,GadgetCoSupport,False,Thu May 11 00:20:31 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,193
+195,cust19,True,Mon Jun 26 21:23:34 +0000 2023,is there a student discount available,196,
+196,GadgetCoSupport,False,Sat Jun 03 23:15:46 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,195
+197,cust99,True,Fri Feb 24 08:38:11 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",198,
+198,GadgetCoSupport,False,Sat Jul 15 20:49:23 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,197
+199,cust169,True,Sun May 21 00:17:41 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #833247,200,
+200,GadgetCoSupport,False,Tue Oct 17 01:47:08 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,199
+201,cust156,True,Sun Apr 23 23:10:42 +0000 2023,is there a student discount available,202,
+202,GadgetCoSupport,False,Sat Apr 08 22:36:21 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,201
+203,cust80,True,Wed Jan 18 21:06:05 +0000 2023,"still waiting on my refund for order #758765, it's been 5 days",204,
+204,GadgetCoSupport,False,Thu Jul 06 04:47:04 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,203
+205,cust52,True,Wed Oct 04 13:19:13 +0000 2023,"package for order #442589 arrived completely smashed, box was crushed",206,
+206,GadgetCoSupport,False,Fri Sep 29 18:16:11 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,205
+207,cust192,True,Tue Feb 28 17:03:05 +0000 2023,what are your store hours on weekends @GadgetCoSupport,208,
+208,GadgetCoSupport,False,Wed Feb 08 05:07:29 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,207
+209,cust94,True,Sat Jul 22 00:30:24 +0000 2023,what are your store hours on weekends @GadgetCoSupport,210,
+210,GadgetCoSupport,False,Tue May 16 19:32:09 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,209
+211,cust98,True,Sat Feb 25 08:30:47 +0000 2023,"package for order #805511 arrived completely smashed, box was crushed",212,
+212,GadgetCoSupport,False,Wed Aug 30 00:54:40 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,211
+213,cust163,True,Sun Jun 04 23:38:17 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",214,
+214,GadgetCoSupport,False,Sat Jul 29 04:14:52 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,213
+215,cust25,True,Tue Oct 03 04:56:21 +0000 2023,"Hey @GadgetCoSupport my order #419149 still hasn't arrived, it's been 17 days now",216,
+216,GadgetCoSupport,False,Tue Jul 18 16:30:59 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,215
+217,cust168,True,Fri Sep 08 22:24:54 +0000 2023,requested a refund last week for #715870 and heard nothing back,218,
+218,GadgetCoSupport,False,Fri Jul 28 10:11:06 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,217
+219,cust61,True,Mon Feb 20 13:22:27 +0000 2023,"package for order #327823 arrived completely smashed, box was crushed",220,
+220,GadgetCoSupport,False,Fri Oct 06 23:28:38 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,219
+221,cust117,True,Wed Apr 19 23:21:49 +0000 2023,requested a refund last week for #389282 and heard nothing back,222,
+222,GadgetCoSupport,False,Wed Jan 11 01:50:29 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,221
+223,cust18,True,Sat Oct 28 07:51:45 +0000 2023,what are your store hours on weekends @GadgetCoSupport,224,
+224,GadgetCoSupport,False,Sun Apr 30 11:57:44 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,223
+225,cust139,True,Fri Mar 31 04:00:08 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,226,
+226,GadgetCoSupport,False,Sat Jan 14 04:47:55 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,225
+227,cust45,True,Fri Jan 27 04:36:54 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #717457,228,
+228,GadgetCoSupport,False,Fri Aug 04 19:09:15 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,227
+229,cust132,True,Sun Aug 20 18:20:39 +0000 2023,"Hey @GadgetCoSupport my order #599380 still hasn't arrived, it's been 16 days now",230,
+230,GadgetCoSupport,False,Mon Apr 24 22:23:43 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,229
+231,cust123,True,Mon Aug 07 03:55:50 +0000 2023,"package for order #580292 arrived completely smashed, box was crushed",232,
+232,GadgetCoSupport,False,Sat Sep 09 16:08:58 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,231
+233,cust17,True,Sun May 21 22:43:50 +0000 2023,"Hey @GadgetCoSupport my order #437758 still hasn't arrived, it's been 21 days now",234,
+234,GadgetCoSupport,False,Fri Oct 27 19:57:54 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,233
+235,cust117,True,Mon Feb 20 04:09:56 +0000 2023,why was I charged $42 more than the listed price on #726410,236,
+236,GadgetCoSupport,False,Tue Oct 10 07:49:43 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,235
+237,cust103,True,Sat Feb 18 11:22:46 +0000 2023,"got the wrong item entirely, ordered X got Y. order #533914",238,
+238,GadgetCoSupport,False,Mon Aug 07 11:22:43 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,237
+239,cust24,True,Fri Feb 17 15:43:26 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",240,
+240,GadgetCoSupport,False,Sun Feb 19 13:34:03 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,239
+241,cust85,True,Sun Jul 30 12:52:26 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,242,
+242,GadgetCoSupport,False,Sat Aug 05 01:52:23 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,241
+243,cust130,True,Tue Mar 21 23:54:39 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",244,
+244,GadgetCoSupport,False,Mon Sep 04 08:09:52 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,243
+245,cust30,True,Sat Oct 21 08:14:03 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,246,
+246,GadgetCoSupport,False,Tue Aug 08 20:25:26 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,245
+247,cust47,True,Thu Jun 08 12:22:21 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",248,
+248,GadgetCoSupport,False,Thu Jun 29 00:13:20 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,247
+249,cust37,True,Thu Feb 16 19:18:51 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #693830,250,
+250,GadgetCoSupport,False,Fri Apr 21 13:41:48 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,249
+251,cust185,True,Wed Oct 18 21:42:28 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #265055",252,
+252,GadgetCoSupport,False,Mon Feb 13 01:54:55 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,251
+253,cust114,True,Wed Sep 06 22:06:10 +0000 2023,"Hey @GadgetCoSupport my order #806707 still hasn't arrived, it's been 4 days now",254,
+254,GadgetCoSupport,False,Tue Aug 15 15:04:47 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,253
+255,cust73,True,Wed Sep 27 11:13:45 +0000 2023,"@GadgetCoSupport I want to return order #461939, how do I start that",256,
+256,GadgetCoSupport,False,Tue Jan 24 08:01:43 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,255
+257,cust55,True,Thu May 11 10:32:18 +0000 2023,"@GadgetCoSupport I want to return order #108060, how do I start that",258,
+258,GadgetCoSupport,False,Sat Jun 17 04:22:06 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,257
+259,cust137,True,Thu Sep 14 20:20:33 +0000 2023,"@GadgetCoSupport where is my order?? placed it 6 days ago, nothing",260,
+260,GadgetCoSupport,False,Sat Jul 01 02:37:27 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,259
+261,cust20,True,Sun Oct 22 15:37:47 +0000 2023,"@GadgetCoSupport I want to return order #557409, how do I start that",262,
+262,GadgetCoSupport,False,Sat Oct 21 14:43:28 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,261
+263,cust6,True,Wed Mar 29 22:30:18 +0000 2023,why was I charged $56 more than the listed price on #403578,264,
+264,GadgetCoSupport,False,Thu Aug 24 13:10:28 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,263
+265,cust103,True,Sat Jul 22 11:17:48 +0000 2023,"Hey @GadgetCoSupport my order #355135 still hasn't arrived, it's been 15 days now",266,
+266,GadgetCoSupport,False,Fri Jun 23 08:04:01 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,265
+267,cust136,True,Wed Jun 28 12:46:59 +0000 2023,"still waiting on my refund for order #180089, it's been 18 days",268,
+268,GadgetCoSupport,False,Fri Mar 17 08:36:08 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,267
+269,cust195,True,Sat Apr 01 22:51:46 +0000 2023,"package for order #306854 arrived completely smashed, box was crushed",270,
+270,GadgetCoSupport,False,Sun Sep 10 16:53:31 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,269
+271,cust161,True,Sun Mar 19 16:00:40 +0000 2023,is there a student discount available,272,
+272,GadgetCoSupport,False,Sat Feb 04 17:04:22 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,271
+273,cust15,True,Sun Sep 17 02:42:04 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #935012",274,
+274,GadgetCoSupport,False,Thu Jun 08 16:48:41 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,273
+275,cust166,True,Sun Sep 17 13:59:54 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #486649",276,
+276,GadgetCoSupport,False,Fri Aug 25 21:07:44 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,275
+277,cust83,True,Thu Sep 14 05:29:33 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #571579",278,
+278,GadgetCoSupport,False,Wed Feb 01 16:24:10 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,277
+279,cust166,True,Sat Jan 21 09:01:12 +0000 2023,"package for order #849014 arrived completely smashed, box was crushed",280,
+280,GadgetCoSupport,False,Sun Aug 13 15:59:55 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,279
+281,cust100,True,Fri Jun 23 21:46:06 +0000 2023,"got the wrong item entirely, ordered X got Y. order #481574",282,
+282,GadgetCoSupport,False,Fri Jan 27 22:58:11 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,281
+283,cust174,True,Fri May 26 09:10:29 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",284,
+284,GadgetCoSupport,False,Sat Mar 18 12:08:14 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,283
+285,cust34,True,Thu Jun 08 20:20:59 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #466813,286,
+286,GadgetCoSupport,False,Wed Jul 12 23:25:43 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,285
+287,cust166,True,Mon Sep 18 13:10:25 +0000 2023,what are your store hours on weekends @GadgetCoSupport,288,
+288,GadgetCoSupport,False,Tue Jan 10 13:12:06 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,287
+289,cust58,True,Tue Mar 21 02:48:34 +0000 2023,"still waiting on my refund for order #458332, it's been 17 days",290,
+290,GadgetCoSupport,False,Thu Jun 01 03:40:56 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,289
+291,cust153,True,Mon Mar 20 05:54:26 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #794083",292,
+292,GadgetCoSupport,False,Mon Apr 03 22:44:45 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,291
+293,cust106,True,Tue May 02 16:10:22 +0000 2023,what are your store hours on weekends @GadgetCoSupport,294,
+294,GadgetCoSupport,False,Fri May 26 16:20:41 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,293
+295,cust95,True,Fri Aug 25 10:15:32 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #424500,296,
+296,GadgetCoSupport,False,Sat Jul 15 18:18:36 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,295
+297,cust65,True,Mon Sep 04 13:30:55 +0000 2023,"got the wrong item entirely, ordered X got Y. order #956572",298,
+298,GadgetCoSupport,False,Wed Oct 11 03:44:06 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,297
+299,cust70,True,Wed Sep 20 05:21:53 +0000 2023,"@GadgetCoSupport I was charged twice for order #398910, please fix this",300,
+300,GadgetCoSupport,False,Sat Aug 12 03:20:21 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,299
+301,cust7,True,Sat Jan 28 14:26:04 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",302,
+302,GadgetCoSupport,False,Fri Sep 15 13:36:55 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,301
+303,cust82,True,Wed Jun 21 05:19:02 +0000 2023,"Hey @GadgetCoSupport my order #493124 still hasn't arrived, it's been 9 days now",304,
+304,GadgetCoSupport,False,Sun Mar 12 01:23:40 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,303
+305,cust115,True,Fri Feb 10 00:41:30 +0000 2023,requested a refund last week for #829884 and heard nothing back,306,
+306,GadgetCoSupport,False,Fri May 12 07:51:06 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,305
+307,cust78,True,Wed Jan 25 08:40:52 +0000 2023,is there a student discount available,308,
+308,GadgetCoSupport,False,Thu Aug 03 23:15:48 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,307
+309,cust153,True,Thu Sep 21 20:56:12 +0000 2023,is there a student discount available,310,
+310,GadgetCoSupport,False,Thu May 04 05:13:38 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,309
+311,cust147,True,Thu Apr 06 03:07:01 +0000 2023,"@GadgetCoSupport I want to return order #744674, how do I start that",312,
+312,GadgetCoSupport,False,Tue Sep 26 13:07:45 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,311
+313,cust163,True,Tue Jul 11 09:14:06 +0000 2023,"Hey @GadgetCoSupport my order #509420 still hasn't arrived, it's been 17 days now",314,
+314,GadgetCoSupport,False,Mon Jan 09 13:00:05 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,313
+315,cust189,True,Fri Mar 10 01:36:51 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,316,
+316,GadgetCoSupport,False,Fri Jun 30 19:52:47 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,315
+317,cust162,True,Sat Mar 11 02:17:50 +0000 2023,"still waiting on my refund for order #970720, it's been 16 days",318,
+318,GadgetCoSupport,False,Wed Aug 23 01:20:47 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,317
+319,cust81,True,Thu Sep 21 14:29:56 +0000 2023,"@GadgetCoSupport I want to return order #929538, how do I start that",320,
+320,GadgetCoSupport,False,Fri Oct 06 17:14:09 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,319
+321,cust168,True,Sat May 20 04:31:55 +0000 2023,"still waiting on my refund for order #400009, it's been 13 days",322,
+322,GadgetCoSupport,False,Sat Jul 08 15:54:32 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,321
+323,cust128,True,Sat Jul 08 18:54:22 +0000 2023,is there a student discount available,324,
+324,GadgetCoSupport,False,Wed May 17 03:00:28 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,323
+325,cust140,True,Wed Jun 14 03:44:07 +0000 2023,"@GadgetCoSupport I was charged twice for order #551524, please fix this",326,
+326,GadgetCoSupport,False,Fri Feb 10 11:56:21 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,325
+327,cust43,True,Thu Jun 29 16:16:46 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",328,
+328,GadgetCoSupport,False,Sun Jan 22 12:50:10 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,327
+329,cust172,True,Thu Jul 06 18:40:51 +0000 2023,"two factor code never arrives, can't get into my account",330,
+330,GadgetCoSupport,False,Thu Mar 23 01:08:01 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,329
+331,cust61,True,Wed Jul 05 13:56:21 +0000 2023,"@GadgetCoSupport where is my order?? placed it 6 days ago, nothing",332,
+332,GadgetCoSupport,False,Wed Oct 18 01:10:44 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,331
+333,cust196,True,Sat Oct 21 05:00:47 +0000 2023,"two factor code never arrives, can't get into my account",334,
+334,GadgetCoSupport,False,Fri Sep 29 13:21:36 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,333
+335,cust189,True,Wed Sep 13 18:51:01 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #361736,336,
+336,GadgetCoSupport,False,Tue Jul 18 20:26:59 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,335
+337,cust157,True,Sat Sep 09 07:17:17 +0000 2023,"package for order #838237 arrived completely smashed, box was crushed",338,
+338,GadgetCoSupport,False,Sat Mar 04 04:56:30 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,337
+339,cust175,True,Tue Jun 27 02:21:51 +0000 2023,is there a student discount available,340,
+340,GadgetCoSupport,False,Mon Oct 09 19:44:23 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,339
+341,cust93,True,Sat Mar 04 07:19:02 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #992717,342,
+342,GadgetCoSupport,False,Mon Mar 13 08:37:09 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,341
+343,cust95,True,Tue Oct 10 04:43:29 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,344,
+344,GadgetCoSupport,False,Tue Feb 14 02:23:37 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,343
+345,cust148,True,Mon Mar 06 11:32:33 +0000 2023,requested a refund last week for #651231 and heard nothing back,346,
+346,GadgetCoSupport,False,Tue Feb 07 16:22:59 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,345
+347,cust47,True,Thu Aug 10 18:18:31 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #234568",348,
+348,GadgetCoSupport,False,Sun Jan 29 04:31:14 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,347
+349,cust182,True,Tue Jun 27 18:53:32 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #272655",350,
+350,GadgetCoSupport,False,Fri May 26 02:52:16 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,349
+351,cust24,True,Wed Oct 25 05:36:50 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #231250,352,
+352,GadgetCoSupport,False,Wed Mar 29 23:59:01 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,351
+353,cust8,True,Tue Jan 24 23:21:16 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",354,
+354,GadgetCoSupport,False,Mon Oct 23 09:38:08 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,353
+355,cust161,True,Sun Jun 04 17:35:00 +0000 2023,"two factor code never arrives, can't get into my account",356,
+356,GadgetCoSupport,False,Sat May 06 14:47:07 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,355
+357,cust113,True,Tue Sep 05 16:54:35 +0000 2023,"@GadgetCoSupport I want to return order #822063, how do I start that",358,
+358,GadgetCoSupport,False,Sat Apr 15 12:23:09 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,357
+359,cust103,True,Sun Jul 09 18:44:59 +0000 2023,"@GadgetCoSupport locked out of my account after too many tries, need help asap",360,
+360,GadgetCoSupport,False,Sun Oct 15 03:51:57 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,359
+361,cust64,True,Sun Feb 19 01:50:32 +0000 2023,requested a refund last week for #228473 and heard nothing back,362,
+362,GadgetCoSupport,False,Mon May 29 13:59:11 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,361
+363,cust148,True,Sat Apr 08 05:48:05 +0000 2023,is there a student discount available,364,
+364,GadgetCoSupport,False,Wed Sep 13 18:44:26 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,363
+365,cust101,True,Thu May 04 07:49:59 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #621530",366,
+366,GadgetCoSupport,False,Thu Oct 26 12:50:54 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,365
+367,cust74,True,Sat Feb 25 15:41:22 +0000 2023,"package for order #618934 arrived completely smashed, box was crushed",368,
+368,GadgetCoSupport,False,Fri Mar 10 09:37:44 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,367
+369,cust14,True,Wed Jul 05 20:08:32 +0000 2023,why was I charged $56 more than the listed price on #483713,370,
+370,GadgetCoSupport,False,Sun May 28 02:40:37 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,369
+371,cust160,True,Tue Mar 07 03:31:12 +0000 2023,requested a refund last week for #901535 and heard nothing back,372,
+372,GadgetCoSupport,False,Fri Jul 21 13:35:15 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,371
+373,cust51,True,Thu Sep 14 01:27:56 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,374,
+374,GadgetCoSupport,False,Tue Jan 24 01:25:00 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,373
+375,cust117,True,Thu Sep 21 05:05:21 +0000 2023,"package for order #943019 arrived completely smashed, box was crushed",376,
+376,GadgetCoSupport,False,Sat Jun 17 22:19:16 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,375
+377,cust87,True,Mon Oct 16 10:54:54 +0000 2023,requested a refund last week for #746447 and heard nothing back,378,
+378,GadgetCoSupport,False,Fri Sep 01 00:36:20 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,377
+379,cust186,True,Thu Aug 31 09:40:03 +0000 2023,"@GadgetCoSupport I want to return order #536774, how do I start that",380,
+380,GadgetCoSupport,False,Tue Oct 24 21:01:51 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,379
+381,cust135,True,Fri Mar 17 08:49:05 +0000 2023,"Hey @GadgetCoSupport my order #711868 still hasn't arrived, it's been 17 days now",382,
+382,GadgetCoSupport,False,Tue Jan 17 20:50:47 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,381
+383,cust81,True,Sun Mar 19 15:02:07 +0000 2023,"just wanted to say thanks @GadgetCoSupport, support fixed my issue super fast!",384,
+384,GadgetCoSupport,False,Sat Apr 15 14:56:28 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,383
+385,cust133,True,Sun Oct 15 11:50:04 +0000 2023,"screen is cracked and I haven't even dropped it, order #989587",386,
+386,GadgetCoSupport,False,Sat Sep 02 19:07:55 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,385
+387,cust140,True,Tue May 16 22:12:43 +0000 2023,"still waiting on my refund for order #581992, it's been 19 days",388,
+388,GadgetCoSupport,False,Tue Sep 05 07:00:00 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,387
+389,cust77,True,Mon Apr 17 17:48:14 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",390,
+390,GadgetCoSupport,False,Mon Jun 12 17:28:08 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,389
+391,cust174,True,Sat Jul 22 12:33:57 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #401769,392,
+392,GadgetCoSupport,False,Thu Mar 16 10:34:30 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,391
+393,cust192,True,Thu Apr 20 07:21:25 +0000 2023,"Hey @GadgetCoSupport my order #463188 still hasn't arrived, it's been 16 days now",394,
+394,GadgetCoSupport,False,Tue Oct 03 09:52:17 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,393
+395,cust62,True,Thu Jan 26 19:20:04 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",396,
+396,GadgetCoSupport,False,Wed Apr 26 23:13:36 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,395
+397,cust26,True,Tue Jan 03 20:02:15 +0000 2023,"Hey @GadgetCoSupport my order #533377 still hasn't arrived, it's been 12 days now",398,
+398,GadgetCoSupport,False,Wed Mar 22 14:48:54 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,397
+399,cust83,True,Tue Jan 31 03:15:25 +0000 2023,"two factor code never arrives, can't get into my account",400,
+400,GadgetCoSupport,False,Sat Oct 21 08:27:17 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,399
+401,cust10,True,Mon Sep 11 06:47:00 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #283568",402,
+402,GadgetCoSupport,False,Mon May 29 01:21:50 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,401
+403,cust165,True,Fri Mar 10 18:21:28 +0000 2023,"Hey @GadgetCoSupport my order #451317 still hasn't arrived, it's been 11 days now",404,
+404,GadgetCoSupport,False,Mon Aug 28 09:56:01 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,403
+405,cust166,True,Thu Apr 06 00:30:46 +0000 2023,"Hey @GadgetCoSupport my order #446747 still hasn't arrived, it's been 7 days now",406,
+406,GadgetCoSupport,False,Thu Jun 22 10:44:29 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,405
+407,cust110,True,Tue Feb 14 14:35:38 +0000 2023,"got the wrong item entirely, ordered X got Y. order #284019",408,
+408,GadgetCoSupport,False,Sat Feb 18 06:43:39 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,407
+409,cust67,True,Mon May 01 16:15:54 +0000 2023,"@GadgetCoSupport you guys are great, quick and friendly service",410,
+410,GadgetCoSupport,False,Wed May 17 12:00:04 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,409
+411,cust16,True,Sun Aug 27 11:10:13 +0000 2023,"@GadgetCoSupport I want to return order #374258, how do I start that",412,
+412,GadgetCoSupport,False,Thu Mar 23 14:45:38 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,411
+413,cust95,True,Sun Apr 23 04:51:47 +0000 2023,@GadgetCoSupport billed me for something I never ordered,414,
+414,GadgetCoSupport,False,Sat Sep 02 05:34:38 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,413
+415,cust194,True,Sun May 07 21:41:34 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #536045",416,
+416,GadgetCoSupport,False,Sat Feb 11 19:07:59 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,415
+417,cust16,True,Sat Oct 21 19:32:21 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #181896",418,
+418,GadgetCoSupport,False,Sat Mar 18 05:59:26 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,417
+419,cust126,True,Tue Sep 19 16:13:10 +0000 2023,requested a refund last week for #221886 and heard nothing back,420,
+420,GadgetCoSupport,False,Sun Jan 29 16:30:32 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,419
+421,cust144,True,Wed Jun 07 00:47:33 +0000 2023,"@GadgetCoSupport where is my order?? placed it 20 days ago, nothing",422,
+422,GadgetCoSupport,False,Sat Jul 22 09:15:52 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,421
+423,cust109,True,Thu Feb 02 19:42:11 +0000 2023,what are your store hours on weekends @GadgetCoSupport,424,
+424,GadgetCoSupport,False,Tue Jan 31 02:30:46 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,423
+425,cust47,True,Fri Aug 04 13:38:01 +0000 2023,"@GadgetCoSupport you guys are great, quick and friendly service",426,
+426,GadgetCoSupport,False,Sat Jul 15 16:19:50 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,425
+427,cust35,True,Thu Mar 02 06:29:52 +0000 2023,is there a student discount available,428,
+428,GadgetCoSupport,False,Tue Oct 03 14:18:38 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,427
+429,cust77,True,Fri Oct 06 15:26:31 +0000 2023,"got the wrong item entirely, ordered X got Y. order #975373",430,
+430,GadgetCoSupport,False,Sat Sep 30 13:48:32 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,429
+431,cust71,True,Mon Feb 27 01:10:22 +0000 2023,what are your store hours on weekends @GadgetCoSupport,432,
+432,GadgetCoSupport,False,Thu Aug 03 22:23:19 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,431
+433,cust26,True,Thu Aug 17 21:45:52 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,434,
+434,GadgetCoSupport,False,Wed Jan 25 08:54:37 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,433
+435,cust56,True,Mon Mar 13 18:20:46 +0000 2023,why was I charged $74 more than the listed price on #560285,436,
+436,GadgetCoSupport,False,Mon May 29 08:31:32 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,435
+437,cust61,True,Wed Mar 15 18:58:41 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,438,
+438,GadgetCoSupport,False,Mon Apr 24 15:03:26 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,437
+439,cust161,True,Thu Oct 12 18:02:42 +0000 2023,"@GadgetCoSupport I want to return order #683761, how do I start that",440,
+440,GadgetCoSupport,False,Wed Jan 25 12:32:23 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,439
+441,cust179,True,Sat Jul 29 05:25:58 +0000 2023,"@GadgetCoSupport you guys are great, quick and friendly service",442,
+442,GadgetCoSupport,False,Sat Jun 03 13:42:23 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,441
+443,cust182,True,Sat Aug 26 02:05:52 +0000 2023,"@GadgetCoSupport where is my order?? placed it 9 days ago, nothing",444,
+444,GadgetCoSupport,False,Sun Oct 15 15:01:30 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,443
+445,cust53,True,Fri Feb 10 16:22:34 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",446,
+446,GadgetCoSupport,False,Sun Jul 09 03:21:59 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,445
+447,cust173,True,Tue Feb 07 06:51:02 +0000 2023,"got the wrong item entirely, ordered X got Y. order #154040",448,
+448,GadgetCoSupport,False,Sat Oct 28 20:20:49 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,447
+449,cust55,True,Thu Mar 02 17:26:13 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #449138,450,
+450,GadgetCoSupport,False,Fri May 05 22:00:20 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,449
+451,cust199,True,Fri Jul 14 16:58:32 +0000 2023,why was I charged $46 more than the listed price on #350956,452,
+452,GadgetCoSupport,False,Sun Oct 01 23:37:09 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,451
+453,cust120,True,Tue Aug 29 11:39:33 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #477114,454,
+454,GadgetCoSupport,False,Sat Apr 15 13:29:49 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,453
+455,cust5,True,Wed Oct 11 21:15:50 +0000 2023,"@GadgetCoSupport I want to return order #689849, how do I start that",456,
+456,GadgetCoSupport,False,Tue Oct 24 15:12:12 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,455
+457,cust146,True,Wed Sep 13 20:02:53 +0000 2023,"still waiting on my refund for order #445888, it's been 9 days",458,
+458,GadgetCoSupport,False,Thu Jun 22 09:22:08 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,457
+459,cust44,True,Tue Mar 28 05:05:44 +0000 2023,is there a student discount available,460,
+460,GadgetCoSupport,False,Sat Oct 07 17:46:44 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,459
+461,cust172,True,Wed Jan 04 15:00:53 +0000 2023,"Hey @GadgetCoSupport my order #649395 still hasn't arrived, it's been 3 days now",462,
+462,GadgetCoSupport,False,Sun Mar 12 22:57:47 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,461
+463,cust117,True,Tue Jan 31 22:29:40 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #109585,464,
+464,GadgetCoSupport,False,Tue Sep 05 17:45:44 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,463
+465,cust185,True,Mon Oct 02 10:26:16 +0000 2023,"@GadgetCoSupport where is my order?? placed it 2 days ago, nothing",466,
+466,GadgetCoSupport,False,Mon Jan 09 18:17:06 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,465
+467,cust25,True,Thu May 04 06:59:16 +0000 2023,is there a student discount available,468,
+468,GadgetCoSupport,False,Wed Sep 27 09:11:24 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,467
+469,cust96,True,Thu Aug 24 20:34:15 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,470,
+470,GadgetCoSupport,False,Fri May 05 08:13:23 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,469
+471,cust104,True,Thu Jul 13 20:07:23 +0000 2023,"@GadgetCoSupport I want to return order #785491, how do I start that",472,
+472,GadgetCoSupport,False,Fri Sep 01 02:02:35 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,471
+473,cust166,True,Tue Oct 17 03:28:19 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",474,
+474,GadgetCoSupport,False,Thu Sep 28 01:32:57 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,473
+475,cust176,True,Fri Oct 06 20:31:00 +0000 2023,"@GadgetCoSupport where is my order?? placed it 3 days ago, nothing",476,
+476,GadgetCoSupport,False,Tue Jan 17 06:31:48 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,475
+477,cust37,True,Thu Feb 09 10:53:46 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",478,
+478,GadgetCoSupport,False,Sat Mar 25 20:31:59 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,477
+479,cust99,True,Fri Feb 10 18:13:59 +0000 2023,"@GadgetCoSupport where is my order?? placed it 19 days ago, nothing",480,
+480,GadgetCoSupport,False,Tue Jun 27 01:57:18 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,479
+481,cust155,True,Sat Jun 17 01:04:43 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #979414,482,
+482,GadgetCoSupport,False,Sat May 20 16:24:14 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,481
+483,cust48,True,Mon Feb 13 22:31:23 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #679902",484,
+484,GadgetCoSupport,False,Thu Jun 01 08:58:22 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,483
+485,cust183,True,Wed Jul 19 11:31:47 +0000 2023,"@GadgetCoSupport I was charged twice for order #380989, please fix this",486,
+486,GadgetCoSupport,False,Tue Jul 04 03:52:45 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,485
+487,cust27,True,Tue Feb 14 06:49:21 +0000 2023,"package for order #566339 arrived completely smashed, box was crushed",488,
+488,GadgetCoSupport,False,Wed Aug 09 16:20:30 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,487
+489,cust91,True,Fri Jun 16 14:01:33 +0000 2023,"screen is cracked and I haven't even dropped it, order #208310",490,
+490,GadgetCoSupport,False,Sat Jan 07 10:37:33 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,489
+491,cust147,True,Fri Jul 14 06:10:16 +0000 2023,"@GadgetCoSupport I want to return order #860053, how do I start that",492,
+492,GadgetCoSupport,False,Mon Mar 13 09:47:27 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,491
+493,cust112,True,Fri Aug 04 10:54:49 +0000 2023,requested a refund last week for #253023 and heard nothing back,494,
+494,GadgetCoSupport,False,Tue Sep 05 02:48:02 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,493
+495,cust118,True,Sat Mar 11 11:05:32 +0000 2023,"still waiting on my refund for order #855917, it's been 17 days",496,
+496,GadgetCoSupport,False,Wed Jan 04 14:24:24 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,495
+497,cust86,True,Sat Mar 11 10:56:18 +0000 2023,requested a refund last week for #943135 and heard nothing back,498,
+498,GadgetCoSupport,False,Wed Jun 14 21:57:44 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,497
+499,cust102,True,Tue May 30 23:02:35 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",500,
+500,GadgetCoSupport,False,Sat Sep 09 20:58:01 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,499
+501,cust94,True,Mon Oct 16 07:16:28 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,502,
+502,GadgetCoSupport,False,Sat Oct 07 06:33:03 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,501
+503,cust113,True,Sun Feb 05 14:53:47 +0000 2023,"@GadgetCoSupport I was charged twice for order #862538, please fix this",504,
+504,GadgetCoSupport,False,Wed Sep 13 05:04:02 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,503
+505,cust97,True,Fri Aug 18 21:46:12 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",506,
+506,GadgetCoSupport,False,Sun Sep 03 21:11:55 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,505
+507,cust180,True,Sat Feb 25 09:02:16 +0000 2023,requested a refund last week for #670053 and heard nothing back,508,
+508,GadgetCoSupport,False,Sat Jul 01 06:03:22 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,507
+509,cust111,True,Fri Jan 06 03:35:24 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",510,
+510,GadgetCoSupport,False,Sat May 13 08:04:58 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,509
+511,cust119,True,Mon Jun 26 00:53:39 +0000 2023,"got the wrong item entirely, ordered X got Y. order #567432",512,
+512,GadgetCoSupport,False,Tue Sep 05 03:48:23 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,511
+513,cust80,True,Tue Aug 22 07:31:54 +0000 2023,"@GadgetCoSupport I want to return order #221707, how do I start that",514,
+514,GadgetCoSupport,False,Sun Sep 24 17:34:58 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,513
+515,cust18,True,Mon Jan 23 04:11:24 +0000 2023,"@GadgetCoSupport I want to return order #559450, how do I start that",516,
+516,GadgetCoSupport,False,Thu Jan 12 12:29:27 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,515
+517,cust45,True,Mon Jun 19 20:23:00 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",518,
+518,GadgetCoSupport,False,Mon Aug 07 16:49:22 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,517
+519,cust164,True,Sat Jul 22 01:03:46 +0000 2023,"@GadgetCoSupport where is my order?? placed it 7 days ago, nothing",520,
+520,GadgetCoSupport,False,Wed Apr 12 16:22:06 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,519
+521,cust72,True,Mon Oct 23 03:42:16 +0000 2023,"two factor code never arrives, can't get into my account",522,
+522,GadgetCoSupport,False,Mon Oct 02 06:48:25 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,521
+523,cust172,True,Thu Sep 28 23:16:09 +0000 2023,"still waiting on my refund for order #579776, it's been 5 days",524,
+524,GadgetCoSupport,False,Sat Jun 10 21:44:06 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,523
+525,cust91,True,Thu Mar 30 10:49:46 +0000 2023,requested a refund last week for #715519 and heard nothing back,526,
+526,GadgetCoSupport,False,Mon Feb 13 04:52:36 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,525
+527,cust96,True,Tue Sep 19 14:08:36 +0000 2023,"still waiting on my refund for order #420214, it's been 5 days",528,
+528,GadgetCoSupport,False,Thu Aug 03 21:42:54 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,527
+529,cust163,True,Thu Oct 12 06:04:31 +0000 2023,"@GadgetCoSupport where is my order?? placed it 7 days ago, nothing",530,
+530,GadgetCoSupport,False,Fri Sep 08 10:30:58 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,529
+531,cust92,True,Wed Sep 06 04:58:15 +0000 2023,"package for order #982885 arrived completely smashed, box was crushed",532,
+532,GadgetCoSupport,False,Mon Apr 10 13:58:44 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,531
+533,cust182,True,Fri Sep 08 06:05:22 +0000 2023,"@GadgetCoSupport you guys are great, quick and friendly service",534,
+534,GadgetCoSupport,False,Sun Feb 12 20:35:07 +0000 2023,So glad we could help! Thanks for being a customer 🙌 ^JM,,533
+535,cust58,True,Tue Mar 28 16:39:02 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #406278,536,
+536,GadgetCoSupport,False,Tue Oct 17 18:02:01 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,535
+537,cust199,True,Thu Oct 05 01:30:53 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #700534",538,
+538,GadgetCoSupport,False,Mon Aug 14 19:53:31 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,537
+539,cust9,True,Mon May 15 12:41:28 +0000 2023,"@GadgetCoSupport where is my order?? placed it 9 days ago, nothing",540,
+540,GadgetCoSupport,False,Tue Feb 14 15:59:09 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,539
+541,cust189,True,Tue Aug 08 06:02:35 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,542,
+542,GadgetCoSupport,False,Mon Mar 13 07:31:22 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,541
+543,cust72,True,Thu Jun 15 10:39:16 +0000 2023,@GadgetCoSupport do you guys ship to Canada?,544,
+544,GadgetCoSupport,False,Mon May 29 20:51:09 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,543
+545,cust71,True,Thu Mar 09 09:05:25 +0000 2023,"@GadgetCoSupport I want to return order #242175, how do I start that",546,
+546,GadgetCoSupport,False,Thu Mar 16 11:43:37 +0000 2023,We can definitely help with that. Please DM your order number and we'll get the return process started. ^AK,,545
+547,cust162,True,Tue Aug 01 13:39:34 +0000 2023,is there a student discount available,548,
+548,GadgetCoSupport,False,Sun Aug 20 02:44:58 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,547
+549,cust178,True,Mon Aug 21 17:46:08 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",550,
+550,GadgetCoSupport,False,Sat Jun 17 21:11:18 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,549
+551,cust17,True,Sat Apr 22 15:38:34 +0000 2023,"Hey @GadgetCoSupport my order #866437 still hasn't arrived, it's been 16 days now",552,
+552,GadgetCoSupport,False,Wed Apr 19 18:00:43 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,551
+553,cust34,True,Sun Jun 25 01:45:45 +0000 2023,@GadgetCoSupport can I exchange this for a different size? order #454161,554,
+554,GadgetCoSupport,False,Tue Jan 24 03:37:31 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,553
+555,cust113,True,Sun Jan 01 15:34:32 +0000 2023,"two factor code never arrives, can't get into my account",556,
+556,GadgetCoSupport,False,Fri Apr 14 04:48:10 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,555
+557,cust168,True,Tue May 09 03:00:03 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,558,
+558,GadgetCoSupport,False,Mon Jul 10 23:37:34 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,557
+559,cust110,True,Sat Feb 18 00:02:22 +0000 2023,"@GadgetCoSupport where is my order?? placed it 11 days ago, nothing",560,
+560,GadgetCoSupport,False,Thu Apr 20 17:21:36 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,559
+561,cust3,True,Fri Mar 03 15:22:33 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #644676,562,
+562,GadgetCoSupport,False,Thu Mar 09 17:23:33 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,561
+563,cust81,True,Sat Jun 03 04:59:33 +0000 2023,"@GadgetCoSupport where is my order?? placed it 5 days ago, nothing",564,
+564,GadgetCoSupport,False,Sat Jul 15 04:50:51 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,563
+565,cust3,True,Mon Aug 14 12:47:10 +0000 2023,"I think someone got into my account, can you help @GadgetCoSupport",566,
+566,GadgetCoSupport,False,Thu Apr 20 22:52:03 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,565
+567,cust23,True,Mon Mar 13 04:29:02 +0000 2023,why was I charged $32 more than the listed price on #746002,568,
+568,GadgetCoSupport,False,Sun Jul 16 12:47:56 +0000 2023,We take billing issues seriously. Please DM your order number and we'll have our billing team review this right away. ^JM,,567
+569,cust71,True,Mon May 08 20:08:54 +0000 2023,"shoutout to @GadgetCoSupport support team, really appreciated the help today",570,
+570,GadgetCoSupport,False,Fri May 26 00:58:35 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,569
+571,cust49,True,Thu Jun 01 23:31:34 +0000 2023,@GadgetCoSupport does the warranty cover water damage?,572,
+572,GadgetCoSupport,False,Sat Jan 28 08:42:50 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,571
+573,cust136,True,Tue Jul 04 11:31:20 +0000 2023,"@GadgetCoSupport the thing I bought stopped working after like 2 days, order #352792",574,
+574,GadgetCoSupport,False,Thu Mar 09 14:05:03 +0000 2023,So sorry to hear that! Please DM us photos of the issue and your order number so we can send a replacement. ^AK,,573
+575,cust196,True,Tue Feb 07 00:36:27 +0000 2023,is there a student discount available,576,
+576,GadgetCoSupport,False,Sat Oct 28 02:27:31 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,575
+577,cust130,True,Thu Sep 14 15:07:31 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #141761,578,
+578,GadgetCoSupport,False,Sat Aug 05 14:38:47 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,577
+579,cust21,True,Tue Mar 21 19:31:45 +0000 2023,@GadgetCoSupport tracking says delivered but I never got my package. Order #390946,580,
+580,GadgetCoSupport,False,Sat Jun 17 14:13:33 +0000 2023,"Hi there, sorry for the trouble! Please DM us your order number and zip code so we can look into the tracking. ^AK",,579
+581,cust15,True,Tue Feb 14 15:49:08 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",582,
+582,GadgetCoSupport,False,Wed Mar 01 16:30:24 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,581
+583,cust4,True,Fri Jan 06 05:57:53 +0000 2023,"@GadgetCoSupport I can't log into my account, keeps saying wrong password",584,
+584,GadgetCoSupport,False,Tue Sep 12 12:37:23 +0000 2023,For account security we can't help over Twitter — please DM us or contact support@gadgetco.example directly so we can verify your identity. ^AK,,583
+585,cust192,True,Thu Mar 02 01:04:07 +0000 2023,"@GadgetCoSupport this is defective right out of the box, order #275073",586,
+586,GadgetCoSupport,False,Wed Jun 21 15:37:52 +0000 2023,That shouldn't happen — DM us your order number and we'll get this sorted with a replacement or refund. ^JM,,585
+587,cust128,True,Tue Sep 19 13:06:42 +0000 2023,"@GadgetCoSupport I want to return order #375722, how do I start that",588,
+588,GadgetCoSupport,False,Sun Jan 29 18:11:24 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,587
+589,cust198,True,Sat Oct 21 04:11:57 +0000 2023,what are your store hours on weekends @GadgetCoSupport,590,
+590,GadgetCoSupport,False,Thu Apr 27 18:31:32 +0000 2023,"Great question! Yes, we ship to Canada, delivery usually takes 5-7 business days. Let us know if you need anything else! ^AK",,589
+591,cust94,True,Sat Mar 18 06:30:56 +0000 2023,"Hey @GadgetCoSupport my order #356430 still hasn't arrived, it's been 3 days now",592,
+592,GadgetCoSupport,False,Thu Jan 19 20:07:45 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,591
+593,cust107,True,Fri May 19 02:50:08 +0000 2023,is there a student discount available,594,
+594,GadgetCoSupport,False,Fri Oct 20 13:34:24 +0000 2023,We're open 9am-9pm every day including weekends! ^JM,,593
+595,cust12,True,Sun Feb 05 16:56:00 +0000 2023,"Hey @GadgetCoSupport my order #288056 still hasn't arrived, it's been 9 days now",596,
+596,GadgetCoSupport,False,Thu May 25 11:18:43 +0000 2023,That's not the experience we want for you. Could you send us a DM with your order # so we can escalate to our shipping team? ^JM,,595
+597,cust75,True,Fri May 05 16:53:27 +0000 2023,requested a refund last week for #108356 and heard nothing back,598,
+598,GadgetCoSupport,False,Sat Jul 08 21:32:34 +0000 2023,Sorry for the delay on your refund! DM us your order # and we'll check the status right away. ^JM,,597
+599,cust39,True,Sat Jul 29 00:52:13 +0000 2023,"@GadgetCoSupport love the new product, best purchase this year",600,
+600,GadgetCoSupport,False,Sun Apr 30 19:43:01 +0000 2023,This made our day! Thank you for the kind words 💙 ^AK,,599

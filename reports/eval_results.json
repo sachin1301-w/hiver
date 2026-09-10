@@ -1,0 +1,16 @@
+{
+  "trivial": {
+    "intent_accuracy": 0.12,
+    "intent_macro_f1": 0.023809523809523808,
+    "escalation_accuracy": 0.77,
+    "escalation_precision": 0.0,
+    "escalation_recall": 0.0
+  },
+  "simple": {
+    "intent_accuracy": 0.91,
+    "intent_macro_f1": 0.910298042764318,
+    "escalation_accuracy": 0.23,
+    "escalation_precision": 0.23,
+    "escalation_recall": 1.0
+  }
+}
